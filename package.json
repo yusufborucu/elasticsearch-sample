@@ -1,0 +1,23 @@
+{
+  "name": "elasticsearch-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufborucu/elasticsearch-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufborucu/elasticsearch-sample/issues"
+  },
+  "homepage": "https://github.com/yusufborucu/elasticsearch-sample#readme",
+  "dependencies": {
+    "elasticsearch": "^16.7.2"
+  }
+}
